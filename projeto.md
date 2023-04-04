@@ -1,4 +1,4 @@
-<img src='/img/NewLogo.png' alt='logo da empresa' width='50px' heidth='50px'/>
+<img src='/img/NewLogo.png' alt='logo da empresa' width='100px' heidth='100px'/>
 
 # *Run Noob*
 
