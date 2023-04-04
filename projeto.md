@@ -7,7 +7,7 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Marcos Vinicius Dutra Lencina|Gerente de configuração|marcosdutravini8@gmail.com|
 
 # Sumário
 
