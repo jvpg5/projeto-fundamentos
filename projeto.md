@@ -7,8 +7,9 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Marcos Vinicius Dutra Lencina|Gerente de configuração|marcosdutravini8@gmail.com|
-|Suellent Thais Martin de Oliveira|Cordenador de Projeto|suellenthaisoliveira@gmail.com|
+|Marcos Vinicius Dutra Lencina|Gerente de Configuração|marcosdutravini8@gmail.com|
+|Suellen Thais Martin de Oliveira|Cordenador de Projeto|suellenthaisoliveira@gmail.com|
+|Edmara Santos Cordeiro da Silva|Designer de Interface com o Usuário|edmarasantos1205@gmail.com|
 
 # Sumário
 
