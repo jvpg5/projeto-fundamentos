@@ -8,6 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Marcos Vinicius Dutra Lencina|Gerente de configuração|marcosdutravini8@gmail.com|
+|Suellent Thais Martin de Oliveira|Cordenador de Projeto|suellenthaisoliveira@gmail.com|
 
 # Sumário
 
