@@ -7,10 +7,11 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
+|João Vitor Pereira Gomes|Gerente de Projeto e Programador|jvpg789@hotmail.com|
 |Marcos Vinicius Dutra Lencina|Gerente de Configuração|marcosdutravini8@gmail.com|
 |Suellen Thais Martin de Oliveira|Cordenador de Projeto|suellenthaisoliveira@gmail.com|
 |Edmara Santos Cordeiro da Silva|Designer de Interface com o Usuário|edmarasantos1205@gmail.com|
-|Tarcisio Santhiago Batista De Morais|Analista de teste|tarcisiosantiago07@gmail.com|
+|Tarcisio Santhiago Batista De Morais|Analista de Teste|tarcisiosantiago07@gmail.com|
 |Karoline de Souza Cerozini|Analista de Requisitos|karolinecerozini15@gmail.com|
 
 # Sumário
