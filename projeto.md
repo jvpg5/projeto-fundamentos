@@ -2,12 +2,15 @@
 
 # *FIBONACCI MANAGEMENT SYSTEM*
 
+# João
+
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+
 
 # Sumário
 
