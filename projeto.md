@@ -114,34 +114,23 @@ Não fazem parte do escopo do projeto:
 
 O sistema será um site web onde apresentará um gama de levels de um jogo plataformer, a unica mudançã de level para level será a mudança do cenário e os desafios presentes no level. A jogabilidade do jogo terá uma curva de aprendizado e sempre haverá uma margem para melhora e otimização para cada level. O objetivo do jogo é conseguir o menor tempo possível para completar um level, superando os próprios recordes e competindo para superar os recordes de outros ususários. No sistema haverá uma maneira de cadastrar um ususário para que possa salvar os recordes, e outros usuarios possam visualizar esses recordes. 
 
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+Das ferramentas de recordes e tempo podemos citar:
 
-Das ferramentas de planejamento podemos citar:
+* **Analisar tempos recentes:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Analisar recordes de outros usuários:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
-
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
-
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Comparar recordes antigos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+No cenário atual de sites de jogos web, existe inúmeros sites que apresentam uma biblioteca de jogos, entretanto, não existe um site no qual aplica esse conceito de jogos e recordes.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No cenário de sites de biblioteca de jogos web encontram-se três sistemas que se destacam:
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**Friv:** é um site no qual apresenta uma biblioteca de jogos web com determinado estilo visual.
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
-
-No cenário internacional os sistemas de maior porte são:
-
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
-
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
+**oJogos:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
