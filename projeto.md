@@ -130,7 +130,9 @@ No cenário de sites de biblioteca de jogos web encontram-se três sistemas que 
 
 **Friv:** é um site no qual apresenta uma biblioteca de jogos web com determinado estilo visual.
 
-**oJogos:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+**Ojogos:** é um site brasilero, no qual apresenta um biblioteca de jogos, cadastramento de ususarios, avaliação de jogos e outras ferramentas.
+
+**Poki:** é um site que tem uma biblioteca de jogos web, no qual tem uma vasta diversidade de jogos interativos com o foco principal nos infatis.
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
