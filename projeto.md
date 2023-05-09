@@ -2,6 +2,8 @@
 
 # *Run Noob*
 
+# João
+
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
@@ -13,6 +15,7 @@
 |Edmara Santos Cordeiro da Silva|Designer de Interface com o Usuário|edmarasantos1205@gmail.com|
 |Tarcisio Santhiago Batista De Morais|Analista de Teste|tarcisiosantiago07@gmail.com|
 |Karoline de Souza Cerozini|Analista de Requisitos|karolinecerozini15@gmail.com|
+
 
 # Sumário
 
@@ -58,18 +61,16 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Run Noob_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Run Noob_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema. O documento apresentará a ideia essencial da base principal da sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
 Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
 * Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
+  * Foram feitas entrevistas com clientes, e futuros usuários para se compreender o que é necessário para um bom sistema.
 * Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
+  * Wagner da Silva, professor de Fundamentos em Análise de Sistemas no Instituto Federal orientou na concepção do sistema devido sua experiência em trabalhar em sistemas e ser um dos consultores da empresa;
+  * Marco Andrade, professor de Análise e Desenvolvimento de Sistemas do Instituto  Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
 * Prototipação:
   * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
 
