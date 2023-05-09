@@ -67,7 +67,7 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
   * Wagner da Silva, professor de Fundamentos em Análise de Sistemas no Instituto Federal orientou na concepção do sistema devido sua experiência em trabalhar em sistemas e ser um dos consultores da empresa;
   * Marco Andrade, professor de Análise e Desenvolvimento de Sistemas do Instituto  Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
 * Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+  * Representações das interfaces gráficas feitas no figma e com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
 
 
 
@@ -75,6 +75,7 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
+* Noob: Iniciante em um jogo
 * EaD: Eaducação a Distância
 * Moodle: Ambiente Virtual que hospedará os cursos oferecidos
 * Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
