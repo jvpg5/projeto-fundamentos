@@ -186,7 +186,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
+|RNF-001 |Taxa de atualização padronizada |A taxa de atualização durante o jogo para padronizar o jogo independente da maquina que está rodando  |
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 
 
