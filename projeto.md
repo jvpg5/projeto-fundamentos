@@ -66,8 +66,6 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 * Consulta com especialista:
   * Wagner da Silva, professor de Fundamentos em Análise de Sistemas no Instituto Federal orientou na concepção do sistema devido sua experiência em trabalhar em sistemas e ser um dos consultores da empresa;
   * Marco Andrade, professor de Análise e Desenvolvimento de Sistemas do Instituto  Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
 * Prototipação:
   * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
 
