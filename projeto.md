@@ -106,12 +106,11 @@ Não fazem parte do escopo do projeto:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**Usuário Cadastrados:**|Usuários que cadastraram podem realizar ações, tal como:jogar e armazenar resultados da pertida, configurar perfil, analisar recordes passados, resultados de partidas recentes e analisar recorde de outros usuarios.|
+|**Usuário Convidado:**|Usuários que não se cadastraram, por isso podem realizar menos ações , tal como: jogar, analisar resultados de partidas recentes e analisar recorde de outros usuários|
+
+|**Administrador:**|Responsáveis pelo gerenciamento dos usuarios, levels, e recordes  dos usuários|
+
 
 ## Abrangência e sistemas similares
 
