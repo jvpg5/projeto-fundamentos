@@ -112,7 +112,7 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
+O sistema será um site web onde apresentará um gama de levels de um jogo plataformer, a unica mudançã de level para level será a mudança do cenário e os desafios presentes no level. A jogabilidade do jogo terá uma curva de aprendizado e sempre haverá uma margem para melhora e otimização para cada level. O objetivo do jogo é conseguir o menor tempo possível para completar um level, superando os próprios recordes e competindo para superar os recordes de outros ususários. No sistema haverá uma maneira de cadastrar um ususário para que possa salvar os recordes, e outros usuarios possam visualizar esses recordes. 
 
 Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
 
