@@ -135,14 +135,14 @@ No cenário de sites de biblioteca de jogos web encontram-se três sistemas que 
 **Poki:** é um site que tem uma biblioteca de jogos web, no qual tem uma vasta diversidade de jogos interativos com o foco principal nos infatis.
 
 ## Suposições e dependências
-O sistema necessita de um servidor web para sua hospedagem.
+O sistema necessita de um servidor web para sua hospedagem e um servidor de banco de dados para o armazenamento das informações.
 
-Os usuários devem utilizar um computador com a seguinte configuração mínima:
+Os usuários devem utilizar navegador web Chrome, Firefox ou Safari com a seguinte configuração mínima:
 
-* Processador Dual Core 2GHz ou superior
-* 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+* WebGL 1.0 ou 2.0
+* HTML 5
+* 64-bit
+* WebAssembly
 
 # ESTUDO DE VIABILIDADE
 
