@@ -191,7 +191,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
 |RNF-001 |Taxa de atualização padronizada |A taxa de atualização durante o jogo para padronizar o jogo independente da maquina que está rodando  |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-002 | É preciso ter devido cuidado com os dados do usuário | O manejamento de dados deve seguir Lei Geral de Proteção de Dados Pessoais |
+|RNF-003 | A equipe deve utilizar uma metodologia ágil | Para o desenvolvimento deve ser utilizado a metodologia ágil de Feature Driven Development em conjunto do Kanban |
+|RNF-004 |Uso do Banco de Dados com MySQL | Os dados dos usuários e de recordes deverão ser armazenados no banco de dados com MySQL |
+|RNF-005 | Será utilizado a framework Next.JS | Deverá ser utilizado a framework Next.Js e React.js para o desenvolvimento do sistema|
+|RNF-006 | O desenvolvimento será baseado em componentização| O desenvolvimento do front-end do site será baseado em componentes feitos com React.js |
+|RNF-007 | A linguagem utilizada no desenvolvimento será typescript | O desenvolvimento do sistema será feito em typescript |
+|RNF-008 | Manejamento de versões com git e GitLab | O manejamento das versões do sistema será feito com git, as armazenando em um GitLab privado |
+|RNF-009 | Responsividade para telas de desktops diferentes | O site deve ter responsividade para as diferentes telas de desktop |
+|RNF-010 | O sistema deve ter compatibilidade com os navegadores | O site deve ter compatibilidade com os principais navegadores, ex: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge,etc |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
