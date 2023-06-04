@@ -108,7 +108,6 @@ Não fazem parte do escopo do projeto:
 |:---|:---|
 |**Usuário Cadastrados:**|Usuários que cadastraram podem realizar ações, tal como:jogar e armazenar resultados da pertida, configurar perfil, analisar recordes passados, resultados de partidas recentes e analisar recorde de outros usuarios.|
 |**Usuário Convidado:**|Usuários que não se cadastraram, por isso podem realizar menos ações , tal como: jogar, analisar resultados de partidas recentes e analisar recorde de outros usuários|
-
 |**Administrador:**|Responsáveis pelo gerenciamento dos usuarios, levels, e recordes  dos usuários|
 
 
@@ -181,8 +180,26 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Cadastrar usuários | O sistema permitirá que usuários sejam cadastrados, classificando eles como comum ou administrador |
+|RF-002 |Entrar em uma conta | O sistema permitirá entrar em uma conta de um usuário cadastrado |
+|RF-003 |Armazenar informações do jogo por usuário | O sistema armazenará as informações dos recordes do usuário por level  |
+|RF-004 |Armazenar informações do perfil do usuário | O sistema armazenará as informações que aparecerá no perfil do usuário |
+|RF-005 |Ordenar usuários por recordes| O sistema permitirá ver uma listagem dos usuários organizada pelo seus recordes adquiridos |
+|RF-006 |Ordenar recordes em leveis| O sistema permitirá ver uma listagem de recordes por level baseada nos recordes atingidos  |
+|RF-007 |Pesquisar por perfil de usuários | O sistema permitirá pesquisar por perfil de usuários |
+|RF-008 |Visualizar perfil de usuário | O sistema permitirá visualizar o perfil de um usuário, assim mostrando suas informações de perfil e recordes |
+|RF-009 |Contabilizar níveis de experiências do usuário| O sistema contabilizará níveis de experiência baseado nos recordes e outros fatores |
+|RF-010 |Ordenar usuários por níveis de experiência | O sistema permitirá visualização de uma listagem de usuários ordenada por níveis de experiência  |
+|RF-011 |Personalizar perfil de usuário | O sistema permitirá a personalização do próprio perfil de usuário |
+|RF-012 |Excluir usuário | O sistema permitirá a exclusão do próprio perfil e usuário do sistema  |
+|RF-013 |Jogar no site | O sistema permitirá que os usuários joguem o jogo no site do sistema para alcançar recordes|
+|RF-014 | Histórico de recordes por usuário | O sistema permitirá a visualização de recordes obtidos por usuário |
+|RF-015 |Histórico de recordes por level | O sistema permitirá a visualização de recordes por level |
+|RF-016 |Administrar usuários | O sistema permitirá que os administradores administrem os usuários e perfis |
+|RF-017 |Administrar recordes| O sistema permitirá que os administradores administrem os recordes alcançados por outros usuários |
+|RF-018 |Filtrar informações de perfil | O sistema filtrará as informações do perfil de um usuário a fim e de evitar informações improprias |
+|RF-019 |Ordenar perfis por país | O sistema permitirá uma visualização dos perfis de determinado país |
+|RF-020 |Ordenar recordes por país | O sistema permitirá uma visualização dos recordes de  perfis de determinado país |
 
 
 ## Requisitos Não Funcionais
