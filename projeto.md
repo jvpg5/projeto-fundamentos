@@ -49,10 +49,10 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | Run Noob |
+| GERENTE DO PROJETO | João V. Pereira |
+| PRINCIPAL OBJETIVO | Site e sistema de jogo com foco nos recordes obtidos |
+| BENEFÍCIOS ESPERADOS |* Forma de entreterimento superior |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
@@ -81,9 +81,8 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
 * Noob: Iniciante em um jogo
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* Level: nível, no contexto do sistema, nível de jogo
+* Levels: níveis, no contexto do sistema, níveis do jogo
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -119,11 +118,11 @@ O sistema será um site web onde apresentará um gama de levels de um jogo plata
 
 Das ferramentas de recordes e tempo podemos citar:
 
-* **Analisar tempos recentes:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Analisar tempos recentes:** será possível comparar e analisar recordes recentes;
 
-* **Analisar recordes de outros usuários:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+* **Analisar recordes de outros usuários:** será possível comparar e analisar recordes de outros usuários;
 
-* **Comparar recordes antigos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
+* **Comparar recordes antigos:** será possível comparar e analisar recordes antigos;
 
 ### Sistemas similares:
 
