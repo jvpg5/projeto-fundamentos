@@ -52,7 +52,7 @@
 | NOME DO PROJETO | Run Noob |
 | GERENTE DO PROJETO | João V. Pereira |
 | PRINCIPAL OBJETIVO | Site e sistema de jogo com foco nos recordes obtidos |
-| BENEFÍCIOS ESPERADOS |* Forma de entreterimento superior |
+| BENEFÍCIOS ESPERADOS | Forma de entreterimento superior |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
