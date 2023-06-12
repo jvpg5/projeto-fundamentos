@@ -55,7 +55,7 @@
 | BENEFÍCIOS ESPERADOS | Forma de entreterimento superior |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#) ]
 
 # INTRODUÇÃO
 
@@ -84,7 +84,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * Level: nível, no contexto do sistema, nível de jogo
 * Levels: níveis, no contexto do sistema, níveis do jogo
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 # DESCRIÇÃO GERAL
 
@@ -162,12 +162,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 # Requisitos do Software
 
@@ -218,16 +218,16 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-010 | O sistema deve ter compatibilidade com os navegadores | O site deve ter compatibilidade com os principais navegadores, ex: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge,etc |
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 
 # Prototipagem
 
-[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/iNC7wyX9zP7Kmn3BhiCFGf/Fals6Hood-(Prot%C3%B3tipo-criado-por-estudantes-em-2022)?node-id=0%3A1&t=B16hgeZP3MSURCCa-1)
+[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/6f7eNdhlocr7g3C2hbwMeg/Projeto-RunNoob?type=design&node-id=1%3A2&t=smj2vHpuJ5lcHgM6-1)
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 
 # Diagrama de Casos de Uso
@@ -268,15 +268,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Run noob) ]
 
 # Diagrama de Atividades
 
