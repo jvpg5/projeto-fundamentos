@@ -84,7 +84,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * Level: nível, no contexto do sistema, nível de jogo
 * Levels: níveis, no contexto do sistema, níveis do jogo
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 # DESCRIÇÃO GERAL
 
@@ -162,12 +162,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 # Requisitos do Software
 
@@ -218,7 +218,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-010 | O sistema deve ter compatibilidade com os navegadores | O site deve ter compatibilidade com os principais navegadores, ex: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge,etc |
 
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 
 # Prototipagem
@@ -227,7 +227,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 
 # Diagrama de Casos de Uso
@@ -268,15 +268,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#Run noob) ]
+[ [INÍCIO](#Run_noob) ]
 
 # Diagrama de Atividades
 
