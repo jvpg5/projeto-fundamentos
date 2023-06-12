@@ -226,6 +226,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/6f7eNdhlocr7g3C2hbwMeg/Projeto-RunNoob?type=design&node-id=1%3A2&t=smj2vHpuJ5lcHgM6-1)
 
 ![Imagem do Protótipo](/img/home.png)
+![Imagem do Protótipo](/img/tutorial.png)
+![Imagem do Protótipo](/img/entrar.png)
+![Imagem do Protótipo](/img/cadastrar.png)
+![Imagem do Protótipo](/img/game.png)
+![Imagem do Protótipo](/img/replay.png)
 
 [ [INÍCIO](#Run_noob) ]
 
