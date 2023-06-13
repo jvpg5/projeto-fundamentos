@@ -223,7 +223,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Prototipagem
 
-[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/6f7eNdhlocr7g3C2hbwMeg/Projeto-RunNoob?type=design&node-id=1%3A2&t=smj2vHpuJ5lcHgM6-1)
+[Protótipo](https://www.figma.com/file/6f7eNdhlocr7g3C2hbwMeg/Projeto-RunNoob?type=design&node-id=1%3A2&t=smj2vHpuJ5lcHgM6-1)
 
 ![Imagem do Protótipo](/img/home.png)
 ![Imagem do Protótipo](/img/tutorial.png)
