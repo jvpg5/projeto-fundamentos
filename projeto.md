@@ -96,8 +96,7 @@ O escopo do **produto** pode ser consultado nos [requisitos do software](#requis
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
+* Organização de competições do jogo;
 * Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
 
 ## Usuários do sistema
