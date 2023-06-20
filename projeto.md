@@ -1,8 +1,6 @@
 <img src='/img/NewLogo.png' alt='logo da empresa' width='100px' heidth='100px'/>
 
-# *Run Noob*
-
-# João
+# *RunNoob*
 
 # PROJETO DE SOFTWARE
 
@@ -84,7 +82,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * Level: nível, no contexto do sistema, nível de jogo
 * Levels: níveis, no contexto do sistema, níveis do jogo
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 # DESCRIÇÃO GERAL
 
@@ -162,12 +160,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 # Requisitos do Software
 
@@ -218,7 +216,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-010 | O sistema deve ter compatibilidade com os navegadores | O site deve ter compatibilidade com os principais navegadores, ex: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge,etc |
 
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 
 # Prototipagem
@@ -232,7 +230,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Imagem do Protótipo](/img/game.png)
 ![Imagem do Protótipo](/img/replay.png)
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 
 # Diagrama de Casos de Uso
@@ -273,15 +271,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#Run_noob) ]
+[ [INÍCIO](#RunNoob) ]
 
 # Diagrama de Atividades
 
