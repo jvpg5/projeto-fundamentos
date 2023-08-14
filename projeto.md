@@ -239,27 +239,29 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+### UC-01 - Cadastrar Usuário
 
-|UC-01 - Cadastrar Professor|           
+|UC-01 - Cadastrar Usuário|           
 |:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
-|**Atores: Administrador**|
-|**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
+|**Descrição/Objetivo:** Permite a inclusão de um novo usuário cadastrado no Sistema|
+|**Atores: **Usuário Convidado****|
+|**Pré-condições:** Nenhuma|
+|**Pós-condições:** Após a realização do cadastro, aparecerá a tela para entrar no usuário cadastrado|
 |**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
+|1. O usuário entra na tela de cadastrar usuário|
+|2. Os usuário insere seus dados|
+|3. O usuário clica em cadastrar|
+|4. É criado um novo usuário |
+|5. Uma mensagem sobre a confirmação do cadastro aparece|
+|6. Aparece a tela de entrar em um usuário|
 |**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
 |**A1: Campo obrigatório não preenchido** |
 |1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
 |2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
-|2. O cursor será posicionado para o campo data|
+ |**A2: E-mail inválido** |
+|1. Uma mensagem será apresentada para o usuário, informando que o e-mail inserido é inválido |
+|2. O cursor será posicionado no primeiro campo do e-mail |
+ 
 
 
 ## Matriz de Rastreabilidade
