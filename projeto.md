@@ -270,7 +270,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 | REQUISITO | Cadastrar-se | Jogar no Site como convidado | Ver recordes |Ver usuários | Pesquisar usuários | Ver histórico de recordes | Cadastrar recordes | Contabilizar nível de experiência| Armazenar informações | Jogar no site como usuário | Personalizar usuário| Entrar como usuário| Visualizar histórico de recordes| Excluir o próprio usuário| Administrar usuários| Entrar como um administrador| Administrar recordes|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X| | | | | | | | | | | | | | | | |
 |RF-002| | | | | | | | | | | |X| | | |X| |
 |RF-003| | | | | | |X| |X| | | | | | | | |
