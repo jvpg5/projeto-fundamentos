@@ -269,11 +269,28 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ## Matriz de Rastreabilidade
 
-
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+| REQUISITO | Cadastrar-se | Jogar no Site como convidado | Ver recordes |Ver usuários | Pesquisar usuários | Ver histórico de recordes | Cadastrar recordes | Contabilizar nível de experiência| Armazenar informações | Jogar no site como usuário | Personalizar usuário| Entrar como usuário| Visualizar histórico de recordes| Excluir o próprio usuário| Administrar usuários| Entrar como um administrador| Administrar recordes|     
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|RF-001|X|||||||||||||||||
+|RF-002||||||||||||X||||X||
+|RF-003|||||||X||X|||||||||
+|RF-004|||||||||X|||||||||
+|RF-005||||X|X|||||||||||||
+|RF-006|||X|||X||||||||||||
+|RF-007|||||X|||||||||||||
+|RF-008||||X||||||||||||||
+|RF-009||||||||X||||||||||
+|RF-010||||X||||||||||||||
+|RF-011|||||||||||X|||||||
+|RF-012||||||||||||||X||||
+|RF-013||x||||||||X||||||||
+|RF-014|||X|||X|||||||X|||||
+|RF-015|||X|||X|||||||X|||||
+|RF-016|||||||||||||||X|||
+|RF-017|||||||||||||||||X|
+|RF-018||||X|X|||||||||||||
+|RF-019|||||X|||||||||||||
+|RF-020|||X|||X||||||||||||
 
 [ [INÍCIO](#RunNoob) ]
 
