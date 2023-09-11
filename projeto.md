@@ -155,11 +155,15 @@ O sistema apresentado, no quesito tamanho, é um projeto de pequeno porte, com b
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Para este projeto, sua viabilidade econômica é definida e refere-se em relação ao quesito econômico que pode ser viável por conta da sua atuação por estar relacionado com um conteúdo interativo e que abrange um grande número de usuários, por isso sua viabilidade econômica pode ser um tanto quanto boa, já que na internet é comum e bastante diverso o variado número de jogos que facilmente podem ser acessados e utilizados gratuitamente pelo usuário. Depois de uma análise de quais custos seriam necessários para as tecnologias, tais como servidores, também os custos de ajudas externas para o desenvolvimento, o custo dos funcionários e o tempo estimado para o desenvolvimento, chegou a conclusão de que é viável economicamente realizar este projeto.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Essa ordem organizacional refere-se á capacidade uma organização ou uma empresa prosperar e atingir seus
+objetivos a longo prazo.
+Assim ela envolve a avaliação de diversos fatores, incluindo a eficiência operacional, a gestão, a satisfação do cliente, a adaptação as mudança e muito mais. 
+Para determinar a viabilidade organizacional, é comum realizar análises operacionais, a fim  de tomar decisões informadas sobre o futuro da organização. Portanto, a viabilidade organizacional é um elemento central para o crescimento e a estabilidade de qualquer entidade, de acordo com sua atuação.
+Depois de  uma análise da operação e os principais fatores incluídos, chegou se a conclusão de que é viável no sentido organizacional, já que apresenta baixos riscos e possíveis problemas.
 
 
 [ [INÍCIO](#RunNoob) ]
