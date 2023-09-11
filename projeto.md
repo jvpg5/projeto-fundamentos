@@ -163,7 +163,7 @@ Essa ordem organizacional refere-se á capacidade uma organização ou uma empre
 objetivos a longo prazo.
 Assim ela envolve a avaliação de diversos fatores, incluindo a eficiência operacional, a gestão, a satisfação do cliente, a adaptação as mudança e muito mais. 
 Para determinar a viabilidade organizacional, é comum realizar análises operacionais, a fim  de tomar decisões informadas sobre o futuro da organização. Portanto, a viabilidade organizacional é um elemento central para o crescimento e a estabilidade de qualquer entidade, de acordo com sua atuação.
-Depois de  uma análise da operação e os principais fatores incluídos, chegou se a conclusão de que é viável no sentido organizacional, já que apresenta baixos riscos e possíveis problemas.
+Depois de  uma análise da operação e os principais fatores incluídos, chegou se a conclusão de que é viável no sentido organizacional, já que apresenta baixos riscos.
 
 
 [ [INÍCIO](#RunNoob) ]
