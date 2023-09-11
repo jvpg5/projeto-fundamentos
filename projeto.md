@@ -81,6 +81,9 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * Noob: Iniciante em um jogo
 * Level: nível, no contexto do sistema, nível de jogo
 * Levels: níveis, no contexto do sistema, níveis do jogo
+* Game engine: Motor de jogo, um programa para o desenvolvimento de jogos
+* Front-end: A interface gráfica do usuário de um site
+* Back-end: É a parte do sistema que gerencia as conexões dos usuários, alimenta a aplicação web e conecta  a internet com o banco de dados
 
 [ [INÍCIO](#RunNoob) ]
 
@@ -148,7 +151,7 @@ Os usuários devem utilizar navegador web Chrome, Firefox ou Safari com a seguin
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+O sistema apresentado, no quesito tamanho, é um projeto de pequeno porte, com baixo nível de complexidade. Todos os funcionários da empresa já tem experiência com projetos e sistemas deste tipo. As tecnologias que serão utilizadas serão, Next,js e React.js para o front-end, Node.js para o back-end, MySql para o banco de dados, e Unity para game engine, tecnologias no qual todos funcionários na área de desenvolvimento tem experiência e conhecimento, com exceção da Unity, que durante a produção do sistema terá ajuda externa de outros desenvolvedores e também a busca que os nossos desenvolvedores aprendam essa tecnologia.
 
 ## Viabilidade Econômica
 
