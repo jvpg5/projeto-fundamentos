@@ -166,6 +166,7 @@ Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretor
 
 # Metodologia Adotada no Desenvolvimento
 
+O desenvolvimento será utilizando a metodologia ágil Feature Driven Development, em conjunto com Kanban. Foi escolhido está metodologia devido ao fato de que as funcionalidades do projeto e sistema são essenciais para sua utilização, depois da analise de o que é necessário e da equipe que desenvolverá, está metodologia é a que mais se adequa ao contexto deste projeto. O Kanban vai ser utilizado junto já que é uma maneira moderna de se organizar as tarefas e gerenciar a equipe. 
 
 [ [INÍCIO](#RunNoob) ]
 
