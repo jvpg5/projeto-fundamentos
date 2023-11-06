@@ -310,7 +310,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#RunNoob) ]
 
 # Diagrama de Atividades
-![Diagrama de Classes](/img/RunNoob-RF-Activity.png)
+![Diagrama de Atividades](/img/RunNoob-RF-Activity.png)
 
 # REFERÊNCIAS
 
