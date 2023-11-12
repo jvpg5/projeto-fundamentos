@@ -311,7 +311,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Diagrama de Sequências Pesquisar](/img/SearchUserSD.png)
 ![Diagrama de Sequências Cadastro](/img/CadastroSD.png)
 ![Diagrama de Sequências Convidado](/img/guestSD.png)
-![Diagrama de Sequências Jogar](/img/Play.png)
+![Diagrama de Sequências Jogar](/img/PlaySD.png)
 
 
 [ [INÍCIO](#RunNoob) ]
